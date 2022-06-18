@@ -9,6 +9,7 @@ function wp_team_manage_admin_menu()
 
     add_submenu_page('wp-team-manage', 'WP Team Manage', 'Team', 'manage_options', 'wp-team-manage', 'wp_team_manage_admin_page');
     add_submenu_page('wp-team-manage', 'WP Team Manage', 'Category', 'manage_options', 'wp-team-manage-category', 'wp_team_manage_category_admin_page');
+    add_submenu_page('wp-team-manage', 'WP Team Manage', 'Add Category', 'manage_options', 'wp-team-add-category', 'wp_team_manage_category_add_page');
 }
 
 

@@ -1,0 +1,34 @@
+/* Admin Styles */
+.wp-team-manage {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.wp-team-manage .wp-team-manage-header {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+.wp-team-manage .wp-team-manage-header h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+.wp-team-manage .wp-team-manage-header h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.wp-team-manage .wp-team-manage-header p {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}

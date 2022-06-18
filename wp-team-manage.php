@@ -15,3 +15,4 @@ Text Domain: wp-team-manage
 require_once(dirname(__FILE__) . '/includes/wp-team-manage-functions.php');
 require_once(dirname(__FILE__) . '/includes/wp-team-manage-admin.php');
 require_once(dirname(__FILE__) . '/includes/wp-team-manage-frontend.php');
+require_once(dirname(__FILE__) . '/includes/wp-team-manage-styles.php');
